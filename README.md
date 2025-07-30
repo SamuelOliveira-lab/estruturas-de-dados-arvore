@@ -1,6 +1,6 @@
 # Estruturas de Dados: Árvore, Rubro-Negra e Algoritmo de Yen
 
-📘 Trabalho acadêmico apresentado como parte da disciplina de Estruturas de Dados no CEFET-MG – Campus Timóteo, por Samuel Oliveira Ferraz Porto.
+📘 Trabalho acadêmico apresentado como parte da disciplina de Estruturas de Dados no CEFET-MG – Campus Timóteo.
 
 ## 📄 Descrição
 
